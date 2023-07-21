@@ -1,0 +1,69 @@
+#profileContentDiv {
+        background-color: #fff;
+        border: 1px solid lightgray;
+        padding: 10px;
+        border-radius: 5px;
+}
+
+#profileDiv {
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#profileImg {
+    border-radius: 50%;
+}
+
+hr {
+    border: 1px solid lightgray;
+    width: 50%;
+}
+
+.info {
+    margin: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+#badgeDiv {
+    text-align: center;
+}
+
+#reposDiv {
+    background-color: #fff;
+    border: 1px solid lightgray;
+    margin-top: 10px;
+}
+
+#readMeDiv {
+    background-color: #fff;
+    border: 1px solid lightgray;
+    padding: 30px;
+    border-radius: 5px;
+    word-spacing: 2px;  
+    text-align: left;
+}
+
+#searchUserDiv {
+    background-color: #fff;
+    border: 1px solid lightgray;
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+
+#searchMain {
+    display: flex;
+    flex-direction: row;
+}
+
+
+

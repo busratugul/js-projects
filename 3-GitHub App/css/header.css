@@ -1,0 +1,51 @@
+#header {
+    background-color: #fff;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#github-logo {
+    width: 60px;
+    height: 60px;
+}
+
+.header-title {
+    text-align: left;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+#searchDiv {
+    background-color: #fff;
+    border: 1px solid lightgray;
+    padding: 10px;
+}
+
+.buton {
+    border: 1px solid lightgray;
+    width: 80px;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+    transition: 0.5s;
+}
+
+.buton:hover {
+    background-color: lightgray;
+    transform: scale(0.98);
+}
+
+.footer{
+    text-align: center;
+}
+
+i {
+    color: black;
+}
+
+i:hover {
+    color: darkgrey;
+    transform: scale(0.98);
+}
+
