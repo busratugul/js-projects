@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+.card {
+    width: 30%;
+    font-weight: bold;
+    text-align: left;
+    position: absolute;
+    bottom: 0;
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.form-input {
+    margin: 20px;
+}
+
+button {
+    margin-left: 25%;
+    background-color: darkgray;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: gray;
+}
