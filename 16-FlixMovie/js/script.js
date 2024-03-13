@@ -416,7 +416,6 @@ async function fetchAPIData(endpoint) {
   const data = await response.json()
 
   hideSpinner()
-  ƒ
   return data
 }
 
